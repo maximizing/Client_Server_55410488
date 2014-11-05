@@ -14,15 +14,22 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int ColID=0x7f060001;
-        public static final int ColName=0x7f060003;
-        public static final int ColStuID=0x7f060002;
-        public static final int ColTel=0x7f060004;
+        public static final int ColID=0x7f060007;
+        public static final int ColName=0x7f060009;
+        public static final int ColStuID=0x7f060008;
+        public static final int ColTel=0x7f06000a;
+        public static final int RelativeLayout1=0x7f060001;
+        public static final int btndelete=0x7f060005;
+        public static final int btnsavechange=0x7f060006;
+        public static final int edt1=0x7f060004;
+        public static final int edt2=0x7f060003;
+        public static final int edt3=0x7f060002;
         public static final int lv1=0x7f060000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int item_show=0x7f030001;
+        public static final int edit=0x7f030001;
+        public static final int item_show=0x7f030002;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
